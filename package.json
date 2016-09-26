@@ -1,0 +1,48 @@
+{
+  "name": "mobx-react-todomvc",
+  "version": "0.0.1",
+  "description": "A light todomvc demo with MobX & React",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nitta_honoka/mobx-react-todomvc.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "mobx",
+    "todomvc"
+  ],
+  "author": "nitta_honoka <xal2008sc@gmail.com> (http://github.com/nitta_honoka)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nitta_honoka/mobx-react-todomvc/issues"
+  },
+  "homepage": "",
+  "devDependencies": {
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-1": "^6.3.13",
+    "eslint-plugin-react": "^2.3.0",
+    "raw-loader": "^0.5.1",
+    "react-addons-perf": "^0.14.7",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.9.6",
+    "webpack-dev-server": "^1.8.2"
+  },
+  "dependencies": {
+    "classnames": "^2.2.3",
+    "mobx": "^2.1.1",
+    "mobx-react": "^3.0.3",
+    "mobx-react-devtools": "^4.0.0",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "todomvc-app-css": "^2.0.4"
+  }
+}
