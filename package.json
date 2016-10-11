@@ -16,7 +16,7 @@
     "mobx",
     "todomvc"
   ],
-  "author": "nitta_honoka <xal2008sc@gmail.com> (http://github.com/nitta_honoka)",
+  "author": "nitta_honoka <xal2008sc@gmail.com> (https://github.com/nitta_honoka)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nitta_honoka/mobx-react-todomvc/issues"
